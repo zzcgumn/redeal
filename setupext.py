@@ -100,7 +100,7 @@ def main():
             "console_scripts": ["redeal = redeal.__main__:console_entry"],
             "gui_scripts": ["redeal-gui = redeal.__main__:gui_entry"],
         },
-        url="http://github.com/anntzer/redeal",
+        url="http://github.com/zzcgumn/redeal",
         license="LICENSE.txt",
         description="A reimplementation of Thomas Andrews' Deal in Python.",
         long_description=Path("README.rst").read_text(encoding="utf-8"),
